@@ -26,8 +26,8 @@ Session Management: express-session
 🚀 Installation
 
 Clone the repository:
-bashgit clone https://github.com/yourusername/whisper.git
-cd whisper
+bashgit clone https://github.com/Youssef19110/secrets.git
+cd secrets
 
 Install dependencies:
 bashnpm install
